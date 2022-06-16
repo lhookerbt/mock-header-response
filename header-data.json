@@ -1,0 +1,161 @@
+{
+	"apiModifiedDate": "16 May 2022 14:15:02",
+	"headlessApiJson": {
+		"header-link-manage": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Manage",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-dashboard": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Dashboard",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-rewards": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Rewards",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-smart-tech": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Smart tech",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-shop": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://shop.ee.co.uk",
+				"childLinks": {},
+				"linkText": "Shop",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-log-in": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://id.ee.co.uk/id/login",
+				"linkText": "Log in",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-mobile": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Mobile",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-sport": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Sport",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-tv": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "TV",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-accessories": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"linkText": "Accessories",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-security": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Security",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-logo": {
+			"elements": {
+				"logoLink": "https://ee.co.uk/content/dam/everything-everywhere/images/logos/EE_Logo.png",
+				"logAltText": "EE Home",
+				"logoNavLink": "https://ee.co.uk/"
+			},
+			"description": ""
+		},
+		"header-link-broadband": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://shop.ee.co.uk/broadband",
+				"childLinks": {},
+				"linkText": "Broadband",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-computing-and-tablets": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Computing & tablets",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-gaming": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk",
+				"childLinks": {},
+				"linkText": "Gaming",
+				"linkType": "Primary"
+			},
+			"description": ""
+		},
+		"header-link-help": {
+			"elements": {
+				"linkUnderline": false,
+				"linkURL": "https://ee.co.uk/help/help-new",
+				"childLinks": {},
+				"linkText": "Help",
+				"linkType": "Primary"
+			},
+			"description": ""
+		}
+	}
+}
